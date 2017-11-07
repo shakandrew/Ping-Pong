@@ -1,5 +1,7 @@
 # Ping-Pong
+
 [PAIN] WinApi project
+
 This project consists from 2 various applications. Each part presents one half of the ping-pong table. 
 
 [HoToRun] You can just run 2 .exe files from exe folder only if you are using Windows, if you are Linux user, so, u have sources, and gool luck :D. 
@@ -11,6 +13,6 @@ all the libraries you need).
 Note: There is no lometric but you want it, so you should add it :D
 
 Some refs:
-	https://www-s.acm.illinois.edu/sigwin/old/windevils98/workshops/workshop2/code/second.htm
-	google
-	msdn
+* https://www-s.acm.illinois.edu/sigwin/old/windevils98/workshops/workshop2/code/second.htm
+* google
+* msdn
